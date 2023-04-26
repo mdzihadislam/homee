@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,700;0,900;1,200;1,300;1,400;1,500;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: antiquewhite;
+}
+header a img{
+    max-width: 250px;
+    width: 100%;
+}
+.headerr{
+    padding: 50px 0px;
+}
+.headerr img{
+    max-width: 320px;
+    width: 100%;
+}
+.headerr h1{
+    margin: 0;
+    padding: 0;
+}
+.first-h1{
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 45px;
+}
+.second-h2{
+    color: #363958;
+    font-weight: 700;
+    font-size: 45px;
+}
+.headerr p{
+     max-width: 250px;
+     width: 100%;
+    font-size: 11px;
+    margin-top: 10px;
+}
+.btnn{
+    background-color: #93AD2D;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.firstt{
+    background-color: #F1F1F1;
+    margin: 20px;
+    border-radius: 20px;
+}
+ 
+.firstt img{
+    padding: 30px;
+    height: 300px;
+}
+.card-footer{
+    border: none;
+    background: white;
+}
+.card-body h4{
+color: #363958;
+}
+.card{
+    box-shadow: 1px 1px 9px -4px black;
+     
+}
+.col h2{
+    color: #363958;
+}
+.first-card{
+    padding:40px 0px;
+}
+.card div div img{
+    max-width: 100px;
+    width: 100%;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+.bottom{
+    margin-bottom: 20px;
+}
+.second h5{
+    color: #363958;
+}
+.imge{
+    margin-top: 90px;
+}
